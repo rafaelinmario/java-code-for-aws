@@ -1,2 +1,7 @@
-# java-code-for-aws
-java-code-for-aws
+# devops
+CI/CD Pipeline Building
+Test
+Test01
+Test02
+
+Gitflow Commands Execution
