@@ -24,12 +24,12 @@
 		<surefire.version>3.0.0-M5</surefire.version>
 		<jacoco.version>0.7.9</jacoco.version>
 
-	<!-- SonarQube Integration -->
+	<!-- SonarQube Integration 
         <sonar.projectKey>StarAgile-DevOps</sonar.projectKey>
         <sonar.organization>StarAgile-DevOps</sonar.organization>
         <sonar.host.url>http://65.2.146.124:9000</sonar.host.url>
         <sonar.login>58ae20c6161da3a28508e3838ca8da82ce9a76db</sonar.login>
-
+        -->
 	</properties>
 	
 	<scm>
@@ -39,7 +39,7 @@
 		<tag>HEAD</tag>
 	</scm>
 
-<!-- Jfrog Integration -->
+<!-- Jfrog Integration 
 <distributionManagement>
     <repository>
         <id>central</id>
@@ -52,7 +52,7 @@
         <url>http://13.233.215.236:8081/artifactory/lib-local</url>
     </snapshotRepository>
 </distributionManagement>
-
+-->
 
 	<dependencies>
 		<dependency>
